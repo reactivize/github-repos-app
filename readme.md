@@ -36,9 +36,8 @@ npm run dev
 
 ## Screenshots:
 
-![githubrepos - default load]()
-![githubrepos - search filter]()
-
+![githubrepos - default load](https://s32.postimg.org/4tn6dq27p/reposlist01.jpg)
+![githubrepos - search filter](https://s32.postimg.org/qes91byyd/reposlist_filtered02.jpg)
 
 
 
