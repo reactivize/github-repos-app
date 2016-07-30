@@ -11,8 +11,8 @@
 npm i
 
 
-# production build...
-# - run this command first to create the bundle.js
+# production build (optional for development work)...
+# - run this command to create the bundle.js
 # - give it one minute
 # - will create a /public/ folder with a bundle.js and copied in index.html
 # - and you will get your terminal prompt back
@@ -37,6 +37,7 @@ npm run dev
 ## Screenshots:
 
 ![githubrepos - default load](https://s32.postimg.org/4tn6dq27p/reposlist01.jpg)
+
 ![githubrepos - search filter](https://s32.postimg.org/qes91byyd/reposlist_filtered02.jpg)
 
 
