@@ -4,6 +4,8 @@
 
 ```bash
 
+#do a git clone
+
 #change into the root folder of the project
 
 
